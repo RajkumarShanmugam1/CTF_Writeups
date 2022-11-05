@@ -1,9 +1,9 @@
 # Audio Salad | ஆடியோ சாலட்
-
 ## Forensics | தடயவியல்
-
-### Source File : Audiosalad.wav
-**Question : My friend sent me this message via audio, but I dropped my salad on my computer before I could listen to it. Help!!!**
+##### Description
+ Question : My friend sent me this message via audio, but I dropped my salad on my computer before I could listen to it. Help!!!</br>
+ Source   : Audiosalad.wav </br>
+ Author   : FrostArtillery
 
 >First i had think , There is Audio Steganography. By doing the below things, I had got the message from Audio.
 
