@@ -2,9 +2,9 @@
 ## misc
 
 #### Descriptions
-**Question : Now students be sure not to show your work.**
-**Author: Swift**
-**Flag has underscores and normal format**
+**Question : Now students be sure not to show your work.**</br>
+**Flag has underscores and normal format**</br>
+**Author: Swift**</br>
 **Source File : Unit_1.0_-_Homework_-_Mountain_Math.pdf**
 
 <ins>Step - 1<ins> : 
