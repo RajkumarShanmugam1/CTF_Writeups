@@ -2,9 +2,9 @@
 ## Web-Exploitation , Curl
 
 ##### Description
- Question : http://bluehens-headspace.chals.io/ (No longer active)
- Source   : ```No-Long Link```
- Author   : JR
+ - Question : http://bluehens-headspace.chals.io/ (No longer active)
+ - Source   : ```No-Long Link```
+ - Author   : JR
 
 <ins>Approach:</ins>
 - First i think to use the head protocol. But which is not respond.
