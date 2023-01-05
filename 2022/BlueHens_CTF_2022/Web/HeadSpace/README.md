@@ -23,5 +23,5 @@
   ```sh
   curl -X PATCH -A "stealthmodeactive" -H "Referer: flag.org" https://bluehens-headspace.chals.io/
   ```
-  - response: Nice! Hopefully you learned a thing or two about HTTP headers :) UDCTF{0uts1d3_t4h_m1nd}
+  - response: Nice! Hopefully you learned a thing or two about HTTP headers :) UDCTF{xxxxxxxxxx}
 - Finally flag is gotted.
